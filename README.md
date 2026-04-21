@@ -72,15 +72,6 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=YeasinFiyaz&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="50%" />
 </p>
 
----
-
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
 ###
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -90,3 +81,11 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YeasinFiyaz&theme=github_dark" />
 </p>
+---
+
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
